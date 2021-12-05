@@ -1,0 +1,2 @@
+# Amoled-thump
+thumpnails amoled
